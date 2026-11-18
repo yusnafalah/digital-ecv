@@ -1,0 +1,12 @@
+
+.git
+.git/**
+.env
+.env.*
+!.env.example
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/storage/logs/*
+.phpunit.result.cache
